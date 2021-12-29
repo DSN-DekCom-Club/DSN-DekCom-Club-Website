@@ -207,7 +207,7 @@ p {
 
 /* Home Section */
 #home {
-	background-image: url(/img/Club_Banner.png);
+	background-image: url(img/Club_Banner.png);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -273,7 +273,7 @@ p {
 
 /* Departments Section */
 #Departments {
-	background-image: url(/img/BG-1.png);
+	background-image: url(img/BG-1.png);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -327,31 +327,31 @@ p {
 	margin: auto;
 }
 #Departments .Departments-item.game{
-    background-image: url(/img/game.jpg);
+    background-image: url(img/game.jpg);
     background-size: cover;
 }
 #Departments .Departments-item.multimedia{
-    background-image: url(/img/Multimedia.PNG);
+    background-image: url(img/Multimedia.PNG);
     background-size: cover;
 }
 #Departments .Departments-item.program{
-    background-image: url(/img/program.PNG);
+    background-image: url(img/program.PNG);
     background-size: cover;
 }
 #Departments .Departments-item.graphic{
-    background-image: url(/img/Graphic.jpg);
+    background-image: url(img/Graphic.jpg);
     background-size: cover;
 }
 #Departments .Departments-item.robot{
-    background-image: url(/img/Robot.jpg);
+    background-image: url(img/Robot.jpg);
     background-size: cover;
 }
 #Departments .Departments-item.dream1{
-    background-image: url(/img/dreamtraveler_1.PNG);
+    background-image: url(img/dreamtraveler_1.PNG);
     background-size: cover;
 }
 #Departments .Departments-item.dream2{
-    background-image: url(/img/dreamtraveler_2.PNG);
+    background-image: url(img/dreamtraveler_2.PNG);
     background-size: cover;
 }
 #Departments .Departments-item::after {
